@@ -1,5 +1,4 @@
 # my-first-repository
-git --version
 
 Hello! My name is VEERMAN, Nicole John
 I am new in Git and Github.
